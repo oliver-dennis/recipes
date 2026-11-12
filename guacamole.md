@@ -7,6 +7,6 @@
 --salt
 --tomato
 --chili
---love
+--hate
 
 ##Instructions
