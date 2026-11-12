@@ -1,12 +1,12 @@
-#guacamole
+#Guacamole recipe
 
-## Ingrediants
-avocado
-lime
-onion
-tomato
-salt
-chili flakes
-love
+##Ingredients
+--avocados
+--lime
+--onion
+--salt
+--tomato
+--chili
+--love
 
-## Instructions
+##Instructions
